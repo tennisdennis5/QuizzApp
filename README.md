@@ -35,4 +35,4 @@ Bei richtiger Antwort wird der Punktestand erhöht.
 * Android Studio
 * Material Design 3
 
-(Wichtig: Damit die App beim Drücken auf Play in Android Studio funktioniert, muss Android SDK 37 installiert sein. Tools -> SDK Manager -> Häkchen bei Android 17.0 -> Apply)
+(Wichtig: Damit die App beim Drücken auf Play in Android Studio funktioniert, muss Android SDK 37 installiert sein. Im geöffneten Projekt oben in der Leiste auf Tools -> SDK Manager -> Häkchen bei Android 17.0 -> Apply)
