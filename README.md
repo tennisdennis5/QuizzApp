@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Die App ist eine einfache Quiz-App. Man beantwortet einfach mehrere Fragen mit jeweils drei Antwortmöglichkeiten. Nach jeder Antwort zeigt die App an, ob die Antwort richtig oder falsch war.
+Die App ist eine einfache Quiz-App: Man beantwortet einfach mehrere Fragen mit jeweils drei Antwortmöglichkeiten. Nach jeder Antwort zeigt die App an, ob die Antwort richtig oder falsch war.
 
 ## Funktionen
 
@@ -14,7 +14,7 @@ Die App ist eine einfache Quiz-App. Man beantwortet einfach mehrere Fragen mit j
 * Endbildschirm mit finaler Punktzahl
 * Möglichkeit, das Quiz neu zu starten
 
-## Beispiel
+## Beispiel einer FRage
 
 Frage:
 
