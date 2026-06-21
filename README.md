@@ -34,3 +34,5 @@ Bei richtiger Antwort wird der Punktestand erhöht.
 * Jetpack Compose
 * Android Studio
 * Material Design 3
+
+(Zum testen in Android Studio muss Android SDK 37 installiert sein)
